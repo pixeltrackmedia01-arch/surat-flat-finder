@@ -1,0 +1,6 @@
+{
+  "gurgaon": {"name": "Gurugram", "magicbricks": "gurgaon", "bbox": [28.33, 76.88, 28.55, 77.16], "center": [77.065, 28.425], "zoom": 12.4},
+  "bangalore": {"name": "Bengaluru", "magicbricks": "bangalore", "bbox": [12.8, 77.4, 13.2, 77.8], "center": [77.6, 12.97], "zoom": 11.4},
+  "mumbai": {"name": "Mumbai", "magicbricks": "mumbai", "bbox": [18.89, 72.77, 19.3, 73.05], "center": [72.88, 19.08], "zoom": 11.4},
+  "surat": {"name": "Surat", "magicbricks": "surat", "bbox": [21.08, 72.7, 21.28, 72.94], "center": [72.83, 21.17], "zoom": 11.8}
+}
